@@ -18,8 +18,6 @@ Bank management system 🏦💰, includes the basic functions, create user, depo
 
 - **Deposit (45 min) 💰:** Deposit money in the account.
   
-- **Transaction (40 min): 💸**
-  
 - **Withdraw and Balance Enquiry (40 min) ❓** View account balance and withdraw money.
   
 - **Fast Cash:** Withdraw a certain amount of money automatically.
