@@ -16,7 +16,7 @@ Bank management system 🏦💰, includes the basic functions, create user, depo
 
 - **Signup (2h 10 min) 👨‍💻:** Create account based in personal information.
 
-- **Deposit (45 min) 💰**
+- **Deposit (45 min) 💰:** Deposit money in the account.
   
 - **Transaction (40 min): 💸**
   
