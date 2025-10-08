@@ -2,6 +2,14 @@
 
 Bank management system 🏦💰, includes the basic functions, create user, deposit anwithdraw money.
 
+**Technologies: 🧰**
+
+- IntellIJ.
+- Java Swing.
+- My SQL Workbench.
+
+**Structure 📓**
+
 **Creation of CLasses 💻**
 
 - **Login (1 hour) 🔐:** Access to the acount, using a debit card and pin.
