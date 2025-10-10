@@ -4,7 +4,7 @@ Bank management system 🏦💰, includes the basic functions, create user, depo
 
 **Technologies: 🧰**
 
-- IntellIJ.
+- Eclipse.
 - Java Swing.
 - My SQL Workbench.
 
